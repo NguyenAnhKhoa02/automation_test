@@ -1,0 +1,4 @@
+2024-10-07 17:24:37.862916 - Công đoạn kéo - Case: 5 - [WORKORDER_T9.2024_02] Lệnh sản xuất 25/9 L1 - Ca 2: 13:30 - 17:30 - Exception('__fillDataToTable()')
+2024-10-07 17:29:36.411827 - Nhiệt - Case: 2 - None - Ca 2: 13:30 - 17:30 - Exception('__fillDataToTable()')
+2024-10-07 17:32:20.778227 - Xi mạ - Case: 1 - None - Ca 2: 13:30 - 17:30 - Exception('__fillDataToTable()')
+2024-10-07 17:32:59.067444 - Xi mạ - Case: 2 - None - Ca 2: 13:30 - 17:30 - Exception('__fillDataToTable()')
